@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+/* Default styling
+-------------------------------------------------------*/
+
+.action				{ background: transparent none top left no-repeat; }
+.action.ico 		{ display: block; text-indent: -300em; width: 18px; height: 18px; padding: 0 !important; }
+.action.ico.small 	{ width: 10px; height: 10px; background-position: 0 0;}
+.action.small 		{ margin-bottom: 0; background-position: 2px 3px; }
+.action.ico.big 	{ width: 32px; height: 32px; background-position: 0 0;}
+.action.big 		{ margin-bottom: 0; background-position: 0 0; }
+
+/* Styles
+-------------------------------------------------------*/
+
+li.action,
+input.action,
+a.action 		{ padding: 2px 2px 2px 20px; }
+a.action.big 	{ padding: 8px 2px 8px 35px; }

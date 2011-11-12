@@ -1,0 +1,69 @@
+@CHARSET "UTF-8";
+
+/* Small
+-------------------------------------------------------*/
+
+.action.small.add			{ background-image: url("images/small/add.png");  }
+.action.small.add-1			{ background-image: url("images/small/add_1.png"); }
+.action.small.edit			{ background-image: url("images/small/edit.png"); }
+.action.small.delete		{ background-image: url("images/small/delete.png"); }
+.action.small.delete-1		{ background-image: url("images/small/delete_1.png"); }
+.action.small.copy 			{ background-image: url("images/small/copy.png"); }
+
+.action.small.cancel		{ background-image: url("images/small/cancel.png"); }
+.action.small.notice		{ background-image: url("images/small/notice.png"); }
+.action.small.warning		{ background-image: url("images/small/warning.png"); }
+
+.action.small.true			{ background-image: url("images/small/true.png"); }
+.action.small.false			{ background-image: url("images/small/false.png"); }
+
+.action.small.folder		{ background-image: url("images/small/folder.png"); }
+.action.small.folder-open	{ background-image: url("images/small/folder_open.png"); }
+
+.action.small.image			{ background-image: url("images/small/image.png"); }
+.action.small.list			{ background-image: url("images/small/list.png"); }
+.action.small.note			{ background-image: url("images/small/note.png"); }
+.action.small.home			{ background-image: url("images/small/home.png"); }
+.action.small.rss			{ background-image: url("images/small/rss.png"); }
+.action.small.vcard			{ background-image: url("images/small/vcard.png"); }
+.action.small.mail			{ background-image: url("images/small/mail.png"); }
+.action.small.tag			{ background-image: url("images/small/tag.png"); }
+.action.small.male			{ background-image: url("images/small/male.png"); }
+.action.small.female		{ background-image: url("images/small/female.png"); }
+.action.small.calendar		{ background-image: url("images/small/calendar.png"); }
+.action.small.comment		{ background-image: url("images/small/comment.png"); }
+.action.small.important		{ background-image: url("images/small/important.png"); }
+.action.small.favorite		{ background-image: url("images/small/favorite.png"); }
+
+.action.small.find			{ background-image: url("images/small/find.png"); }
+.action.small.settings		{ background-image: url("images/small/settings.png"); }
+.action.small.settings-1	{ background-image: url("images/small/settings_1.png"); }
+.action.small.attach		{ background-image: url("images/small/attach.png"); }
+.action.small.refresh 		{ background-image: url("images/small/refresh.png"); }
+
+.action.small.language 		{ background-image: url("images/small/language.png"); }
+
+.action.small.stats 		{ background-image: url("images/small/stats-1.png"); }
+.action.small.stats-1 		{ background-image: url("images/small/stats-2.png"); }
+.action.small.stats-2 		{ background-image: url("images/small/stats-3.png"); }
+.action.small.stats-3 		{ background-image: url("images/small/stats-4.png"); }
+
+.action.small.key 			{ background-image: url("images/small/key.png"); }
+.action.small.lock 			{ background-image: url("images/small/lock.png"); }
+.action.small.unlock		{ background-image: url("images/small/unlock.png"); }
+.action.small.shield 		{ background-image: url("images/small/shield.png"); }
+
+
+.action.small.loader 		{ background-image: url("images/small/loader.gif"); }
+
+.action.small.web 		{ background-image: url("images/small/web.png"); }
+.action.small.save 		{ background-image: url("images/small/save.png"); }
+.action.small.hot 		{ background-image: url("images/small/hot.png"); }
+.action.small.paste 	{ background-image: url("images/small/paste.png"); }
+.action.small.time 		{ background-image: url("images/small/time.png"); }
+.action.small.alarm 	{ background-image: url("images/small/alarm.png"); }
+.action.small.alarm-1 	{ background-image: url("images/small/alarm-1.png"); }
+
+.action.small.trash 	{ background-image: url("images/small/trash.png"); }
+.action.small.bug 		{ background-image: url("images/small/bug.png"); }
+.action.small.group 	{ background-image: url("images/small/group.png"); }

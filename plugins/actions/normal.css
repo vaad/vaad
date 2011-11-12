@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+
+/* Normal
+-------------------------------------------------------*/
+
+.action.add			{ background-image: url("images/normal/add.png"); }
+.action.add-1		{ background-image: url("images/normal/add_1.png"); }
+.action.edit		{ background-image: url("images/normal/edit.png"); }
+.action.delete		{ background-image: url("images/normal/delete.png"); }
+.action.delete-1	{ background-image: url("images/normal/delete_1.png"); }
+.action.copy 		{ background-image: url("images/normal/copy.png"); }
+
+.action.cancel		{ background-image: url("images/normal/cancel.png"); }
+.action.notice		{ background-image: url("images/normal/notice.png"); }
+.action.warning		{ background-image: url("images/normal/warning.png"); }
+
+.action.true		{ background-image: url("images/normal/true.png"); }
+.action.false		{ background-image: url("images/normal/false.png"); }
+
+.action.folder		{ background-image: url("images/normal/folder.png"); }
+.action.folder-open	{ background-image: url("images/normal/folder_open.png"); }
+
+.action.image		{ background-image: url("images/normal/image.png"); }
+.action.list		{ background-image: url("images/normal/list.png"); }
+.action.note		{ background-image: url("images/normal/note.png"); }
+.action.home		{ background-image: url("images/normal/home.png"); }
+.action.rss			{ background-image: url("images/normal/rss.png"); }
+.action.vcard		{ background-image: url("images/normal/vcard.png"); }
+.action.mail		{ background-image: url("images/normal/mail.png"); }
+.action.tag			{ background-image: url("images/normal/tag.png"); }
+.action.male		{ background-image: url("images/normal/male.png"); }
+.action.female		{ background-image: url("images/normal/female.png"); }
+.action.calendar	{ background-image: url("images/normal/calendar.png"); }
+.action.comment		{ background-image: url("images/normal/comment.png"); }
+.action.important	{ background-image: url("images/normal/important.png"); }
+.action.favorite	{ background-image: url("images/normal/favorite.png"); }
+
+.action.find		{ background-image: url("images/normal/find.png"); }
+.action.settings	{ background-image: url("images/normal/settings.png"); }
+.action.settings-1	{ background-image: url("images/normal/settings_1.png"); }
+.action.attach		{ background-image: url("images/normal/attach.png"); }
+.action.refresh 	{ background-image: url("images/normal/refresh.png"); }
+
+.action.loader 		{ background-image: url("images/normal/loader.gif"); }
+
+.action.language 	{ background-image: url("images/normal/language.png"); }
+
+.action.stats 		{ background-image: url("images/normal/stats-1.png"); }
+.action.stats-1 	{ background-image: url("images/normal/stats-2.png"); }
+.action.stats-2 	{ background-image: url("images/normal/stats-3.png"); }
+.action.stats-3 	{ background-image: url("images/normal/stats-4.png"); }
+
+.action.key 		{ background-image: url("images/normal/key.png"); }
+.action.lock 		{ background-image: url("images/normal/lock.png"); }
+.action.unlock		{ background-image: url("images/normal/unlock.png"); }
+.action.shield 		{ background-image: url("images/normal/shield.png"); }
+
+.action.web 		{ background-image: url("images/normal/web.png"); }
+.action.save 		{ background-image: url("images/normal/save.png"); }
+.action.hot 		{ background-image: url("images/normal/hot.png"); }
+.action.paste 		{ background-image: url("images/normal/paste.png"); }
+.action.time 		{ background-image: url("images/normal/time.png"); }
+.action.alarm 		{ background-image: url("images/normal/alarm.png"); }
+.action.alarm-1 	{ background-image: url("images/normal/alarm-1.png"); }
+
+.action.trash 		{ background-image: url("images/normal/trash.png"); }
+.action.bug 		{ background-image: url("images/normal/bug.png"); }
+.action.group 		{ background-image: url("images/normal/group.png"); }

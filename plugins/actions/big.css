@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+
+/* Big
+-------------------------------------------------------*/
+
+.action.big.home		{ background-image: url("images/big/home.png"); }
+
+.action.big.content		{ background-image: url("images/big/content.png"); }
+.action.big.gallery		{ background-image: url("images/big/gallery.png"); }
+.action.big.find		{ background-image: url("images/big/find.png"); }
+.action.big.user		{ background-image: url("images/big/user.png"); }
+
+.action.big.add			{ background-image: url("images/big/add.png");  }
+.action.big.add-1		{ background-image: url("images/big/add_1.png"); }
+.action.big.edit		{ background-image: url("images/big/edit.png"); }
+.action.big.delete		{ background-image: url("images/big/delete.png"); }
+.action.big.delete-1	{ background-image: url("images/big/delete_1.png"); }
+.action.big.copy 		{ background-image: url("images/big/copy.png"); }
+
+.action.big.true		{ background-image: url("images/big/true.png"); }
+.action.big.false		{ background-image: url("images/big/false.png"); }
+
+.action.big.rss			{ background-image: url("images/big/rss.png"); }
+
+.action.big.mail		{ background-image: url("images/big/mail.png"); }
+.action.big.find		{ background-image: url("images/big/find.png"); }
+.action.big.settings	{ background-image: url("images/big/settings.png"); }
+.action.big.settings-1	{ background-image: url("images/big/settings_1.png"); }
+
+.action.big.folder		{ background-image: url("images/big/folder.png"); }
+.action.big.folder-open	{ background-image: url("images/big/folder_open.png"); }
+
+.action.big.calendar	{ background-image: url("images/big/calendar.png"); }
+.action.big.comment		{ background-image: url("images/big/comment.png"); }
+.action.big.favorite	{ background-image: url("images/big/favorite.png"); }
+.action.big.attach		{ background-image: url("images/big/attach.png"); }
+
+.action.big.loader 		{ background-image: url("images/big/loader.gif"); }
+
+.action.big.language 	{ background-image: url("images/big/language.png"); }
+
+.action.big.stats 		{ background-image: url("images/big/stats-1.png"); }
+.action.big.stats-1 	{ background-image: url("images/big/stats-2.png"); }
+.action.big.stats-2 	{ background-image: url("images/big/stats-3.png"); }
+.action.big.stats-3 	{ background-image: url("images/big/stats-4.png"); }
+
+.action.big.key 		{ background-image: url("images/big/key.png"); }
+.action.big.lock 		{ background-image: url("images/big/lock.png"); }
+.action.big.unlock		{ background-image: url("images/big/unlock.png"); }
+.action.big.shield 		{ background-image: url("images/big/shield.png"); }
